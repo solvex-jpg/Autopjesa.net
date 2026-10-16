@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" fill="none">
+  <g stroke="#8b7854" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".62">
+    <g transform="translate(130 125) rotate(-12) scale(.92)">
+      <circle r="54"/><circle r="38"/><circle r="8"/>
+      <circle cx="0" cy="-25" r="4"/><circle cx="22" cy="-12" r="4"/><circle cx="22" cy="13" r="4"/><circle cy="26" r="4"/><circle cx="-22" cy="13" r="4"/><circle cx="-22" cy="-12" r="4"/>
+      <path d="M36-39 48-52m-86 91-12 13"/>
+    </g>
+    <g transform="translate(492 145) rotate(9) scale(.88)">
+      <circle r="51"/><circle r="33"/><circle r="7"/>
+      <path d="M0-33v-11m23 20 9-8M33 0h12M23 23l9 9M0 33v12m-23-22-9 9M-33 0h-12m22-23-9-9"/>
+      <circle cx="0" cy="-23" r="3"/><circle cx="20" cy="-11" r="3"/><circle cx="20" cy="12" r="3"/><circle cy="23" r="3"/><circle cx="-20" cy="12" r="3"/><circle cx="-20" cy="-11" r="3"/>
+    </g>
+    <g transform="translate(777 320) rotate(-8) scale(.94)">
+      <path d="M-51-29q0-16 16-16h70q16 0 16 16v57q0 16-16 16h-70q-16 0-16-16Z"/>
+      <path d="M-39-30v58m13-60v62m13-62v62m13-62v62m13-62v62m13-62v60M-57-18h-12v34h12m126-34h12v34H69"/>
+      <circle cx="-22" cy="0" r="8"/><circle cx="23" cy="0" r="8"/>
+    </g>
+    <g transform="translate(118 446) rotate(11) scale(1.02)">
+      <circle r="57"/><circle r="42"/><circle r="25"/><circle r="7"/>
+      <path d="M0-25v18m24-7-16 10m10 23L7 4m-25 18 7-18m-25-10 18 3m30-32 9-9"/>
+      <circle cx="0" cy="-36" r="3"/><circle cx="31" cy="-18" r="3"/><circle cx="31" cy="18" r="3"/><circle cy="36" r="3"/><circle cx="-31" cy="18" r="3"/><circle cx="-31" cy="-18" r="3"/>
+    </g>
+    <g transform="translate(448 456) rotate(-38) scale(.9)">
+      <path d="M-16-59h32v23l-8 8v32l-8 10v42h-8v-42l-8-10v-32l-8-8Z"/>
+      <path d="M-16-48h32m-31 42h30m-24 21h18m-15 20h12M0-59v-16"/>
+    </g>
+    <g transform="translate(738 111) rotate(8) scale(.9)">
+      <path d="M-47-15h21l12-23h28l12 23h21q9 0 9 10v25q0 8-9 8h-94q-9 0-9-8V-5q0-10 9-10Z"/>
+      <circle cx="-25" cy="8" r="8"/><circle cx="25" cy="8" r="8"/>
+      <path d="M-12-30h24m-37 15v-9m50 9v-9M-39 28v8m78-8v8"/>
+    </g>
+  </g>
+</svg>
